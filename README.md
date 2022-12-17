@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+<a href="https://app.daily.dev/rajin"><img src="https://api.daily.dev/devcards/7a68ec372eff4157bcfaeafbab7c2d95.png?r=8nj" width="400" alt="AN RAJIN's Dev Card"/></a>
 <img src="https://komarev.com/ghpvc/?username=ANrajin&style=flat-square&color=blue" alt=""/>
 
 <h1>
