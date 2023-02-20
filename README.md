@@ -1,1 +1,1 @@
-![ANRajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anrajin&show_icons=true&theme=tokyonight)
+![ANRajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anrajin&show_icons=true&theme=transparent)
