@@ -1,4 +1,4 @@
-# another confused programmer 😐
+# Hi 😇
 
 ![ANRajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anrajin&show_icons=true&theme=transparent)
 
