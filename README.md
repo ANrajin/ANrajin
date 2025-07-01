@@ -1,5 +1,3 @@
-# Hi 😇
-
 ![ANRajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anrajin&show_icons=true&theme=transparent)
 
 Hi there 👋! Well, I don't know how to express myself 😑 Here is what I am familier with:<br>
